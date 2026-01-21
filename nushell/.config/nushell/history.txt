@@ -1,0 +1,169 @@
+clear
+l
+ls
+clear
+ls 
+ll
+ls -la
+clear
+$nu.env-path
+neovide .config/nushell/env.nu
+clear
+help
+clear
+cd .config/nushell/
+l
+clear
+ls
+v config.nu
+nvim config.nu
+l
+ls
+nvim env.nu
+clear
+source env.nu
+exit
+nvim env.nu
+clear
+ls
+clear
+nvim env.nu
+clear
+source ./env.nu
+nvim env.nu
+ls
+source ./env.nu
+nvim env.nu
+source ./env.nu
+clear
+ls
+clear
+exit
+clear
+exit
+clear
+ls
+Lq
+exit
+ls
+cd .config/nushell/
+l
+ls
+l
+ls
+q
+exit
+nvim config.nu
+exit
+clear
+nvim config.nu
+cd .config/nushell/
+nvim config.nu
+clear
+exit
+nu
+cd .config/nushell/
+nvim config.nu
+exit
+clear
+exit
+nu
+exit
+cd .config/nushell/
+l
+ls
+nvim config.nu
+nvim env.nu
+exit
+cd .config/nushell/
+l
+ls
+nvim env.nu
+clear
+ls
+exit
+cd .config/nushell/
+nvim env.nu
+exit
+cd .config/nushell/
+nvim env.nu
+exit
+nvim  .config/nushell/env.nu
+exit
+nvim  .config/nushell/config.nu
+exit]
+exit
+cd .config/nushell/
+l
+rm config.nu
+rm env.nu
+ls
+clear
+exit
+clear
+ls
+clear
+config nu
+clear
+config nu
+clear
+exit
+clear
+la
+ls 
+clear
+exit
+lt
+ll
+la
+l
+ll
+clear
+exit
+ls
+help nu
+help
+ls | sort-by size
+clear
+l
+clear
+ls
+cd .config/nushell/
+l
+v aliases.nu
+lt
+l
+c config.nu
+v config.nu
+l
+cd ..
+l
+v starship.toml
+clear
+exit
+ls
+exit
+l 
+clear
+time ls -la 
+date ls -la 
+man date
+clear
+exit
+ls
+..
+pwd 
+exit
+ls
+ll
+clear
+cd 
+ls
+l
+exit
+l
+ls
+exti
+exit
+ls
+exit

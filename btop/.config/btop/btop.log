@@ -1,0 +1,1848 @@
+2025/04/06 (20:30:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:30:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:30:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:30:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:31:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:31:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:31:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:32:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:32:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:32:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:33:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:33:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:33:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:34:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:34:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:34:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:35:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:35:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:35:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:36:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:36:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:36:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/06 (20:37:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/06 (20:37:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/06 (20:37:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+2025/04/06 (20:54:41) | ===> btop++ v.1.4.0
+2025/04/06 (20:54:41) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/07 (18:01:36) | ===> btop++ v.1.4.0
+2025/04/07 (18:01:36) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/07 (18:03:14) | ===> btop++ v.1.4.0
+2025/04/07 (18:03:14) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+2025/04/08 (12:22:58) | ===> btop++ v.1.4.0
+2025/04/08 (12:22:58) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/08 (12:22:58) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/04/08 (12:22:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/08 (12:22:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/08 (12:22:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2025/04/08 (12:24:36) | ===> btop++ v.1.4.0
+2025/04/08 (12:24:36) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/08 (14:55:49) | ===> btop++ v.1.4.0
+2025/04/08 (14:55:49) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/08 (14:55:49) | WARNING: NVML: Failed to get maximum GPU temperature, defaulting to 110°C: Not Supported
+2025/04/08 (14:55:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/08 (14:55:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/08 (14:55:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2025/04/14 (09:38:33) | ===> btop++ v.1.4.0
+2025/04/14 (09:38:33) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (09:49:30) | ===> btop++ v.1.4.0
+2025/04/14 (09:49:30) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (09:53:41) | ===> btop++ v.1.4.0
+2025/04/14 (09:53:41) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+                                                                                                                                                            
+2025/04/14 (09:58:40) | ===> btop++ v.1.4.0
+2025/04/14 (09:58:40) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (10:00:10) | ===> btop++ v.1.4.0
+2025/04/14 (10:00:10) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (10:13:27) | ===> btop++ v.1.4.0
+2025/04/14 (10:13:27) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (11:27:22) | ===> btop++ v.1.4.0
+2025/04/14 (11:27:22) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (11:33:12) | ===> btop++ v.1.4.0
+2025/04/14 (11:33:12) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (11:39:11) | ===> btop++ v.1.4.0
+2025/04/14 (11:39:11) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (12:40:00) | ===> btop++ v.1.4.0
+2025/04/14 (12:40:00) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (12:44:03) | ===> btop++ v.1.4.0
+2025/04/14 (12:44:03) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (14:11:57) | ===> btop++ v.1.4.0
+2025/04/14 (14:11:57) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/14 (16:31:14) | ===> btop++ v.1.4.0
+2025/04/14 (16:31:14) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/14 (18:56:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:56:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:56:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:56:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:57:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:57:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:57:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:57:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:57:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:57:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:57:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:57:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:57:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:57:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:57:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:57:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/14 (18:57:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/14 (18:57:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/14 (18:57:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+                                                                     
+2025/04/14 (19:09:30) | ===> btop++ v.1.4.0
+2025/04/14 (19:09:30) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+2025/04/15 (09:55:50) | ===> btop++ v.1.4.0
+2025/04/15 (09:55:50) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/16 (17:52:40) | ===> btop++ v.1.4.0
+2025/04/16 (17:52:40) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/16 (20:40:26) | ===> btop++ v.1.4.0
+2025/04/16 (20:40:26) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/16 (20:51:43) | ===> btop++ v.1.4.0
+2025/04/16 (20:51:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/16 (21:04:38) | ===> btop++ v.1.4.0
+2025/04/16 (21:04:38) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+2025/04/17 (11:59:22) | ===> btop++ v.1.4.0
+2025/04/17 (11:59:22) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/17 (14:21:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (14:21:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (14:21:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (14:21:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:19:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:19:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:19:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:44) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:44) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:44) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/17 (21:20:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/17 (21:20:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/17 (21:20:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+
+2025/04/21 (14:30:17) | ===> btop++ v.1.4.0
+2025/04/21 (14:30:17) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/21 (14:30:59) | ===> btop++ v.1.4.0
+2025/04/21 (14:30:59) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/21 (14:41:34) | ===> btop++ v.1.4.0
+2025/04/21 (14:41:34) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/21 (14:58:55) | ===> btop++ v.1.4.0
+2025/04/21 (14:58:55) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/23 (12:56:31) | ===> btop++ v.1.4.0
+2025/04/23 (12:56:31) | WARNING: Failed to join _runner thread on exit!
+
+2025/04/24 (12:07:01) | ===> btop++ v.1.4.0
+2025/04/24 (12:07:01) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/24 (12:19:43) | ===> btop++ v.1.4.0
+2025/04/24 (12:19:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/24 (15:49:43) | ===> btop++ v.1.4.0
+2025/04/24 (15:49:43) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+2025/04/24 (18:30:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:14) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:14) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:14) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:15) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:15) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:15) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:16) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:16) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:16) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:17) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:17) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:17) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:18) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:18) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:18) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:19) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:19) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:19) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:20) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:20) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:20) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:21) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:21) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:21) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:22) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:22) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:22) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:23) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:23) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:23) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:24) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:24) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:24) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:25) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:25) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:25) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:26) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:26) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:26) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:27) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:27) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:27) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:28) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:28) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:28) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:29) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:29) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:29) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:30) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:30) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:30) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:31) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:31) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:31) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:32) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:32) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:32) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:33) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:33) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:33) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:34) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:34) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:34) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:35) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:35) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:35) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:36) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:36) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:36) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:37) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:37) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:37) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:38) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:38) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:38) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:39) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:39) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:39) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:40) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:40) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:40) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:41) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:41) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:41) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:42) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:42) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:42) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:43) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:43) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:43) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:45) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:45) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:45) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:46) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:46) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:46) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:47) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:47) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:47) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:48) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:48) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:48) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:49) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:49) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:49) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:50) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:50) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:50) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:51) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:51) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:51) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:52) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:52) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:52) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:53) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:53) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:53) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:54) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:54) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:54) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:55) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:55) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:55) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:56) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:56) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:56) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:57) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:57) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:57) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:58) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:58) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:58) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:30:59) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:30:59) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:30:59) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:00) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:00) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:00) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:01) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:01) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:01) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:02) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:02) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:02) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:03) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:03) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:03) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:04) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:04) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:04) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:05) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:05) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:05) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:06) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:06) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:06) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:07) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:07) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:07) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:08) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:08) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:08) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:09) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:09) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:09) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:10) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:10) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:10) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:11) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:11) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:11) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:12) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:12) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:12) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+2025/04/24 (18:31:13) | WARNING: NVML: Failed to get GPU clock speed: System is not in ready state
+2025/04/24 (18:31:13) | WARNING: NVML: Failed to get VRAM clock speed: System is not in ready state
+2025/04/24 (18:31:13) | WARNING: NVML: Failed to get GPU power usage: Not Supported
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+2025/04/24 (18:44:03) | ===> btop++ v.1.4.0
+2025/04/24 (18:44:03) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
+
+2025/04/24 (19:27:53) | ===> btop++ v.1.4.0
+2025/04/24 (19:27:53) | WARNING: NVML: Failed to get maximum GPU power draw, defaulting to 225W: Not Supported
